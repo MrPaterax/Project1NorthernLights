@@ -1,0 +1,99 @@
+body{
+
+}
+table{
+  border:2px solid black;
+}
+.td1{
+  width: 250px;
+  text-align: left;
+}
+.title{
+  text-align: center;
+}
+.icelandcontainer{
+  background-color: pink;
+  color: white;
+  height: 800px;
+  border: 2px solid black;
+}
+.icelandcontainer img{
+  border: 2px solid purple;
+}
+.icelandsub{
+  width: 40%;
+  height: 40%;
+  float: left;
+  margin: 2%;
+  margin-left: 5%;
+}
+.col4{
+  text-align: center;
+}
+.Newsfeedp{
+  padding-left: 2%;
+
+}
+.row1 p{
+  width: 20%;
+  display: inline-block;
+}
+.contactUsPics{
+  height: 60px;
+}
+.homeFooter{
+  font-size: 23px;
+  text-align: center;
+}
+.homeFooter a{
+  display: inline-block;
+  padding-right: 3%;
+  padding-left: 3%;
+}
+.copyright{
+  text-align: center;
+}
+.row{
+  height: 330px;
+  padding-left: 18%;
+}
+.column{
+  float: left;
+  width: 25%;
+  border: 2px solid black;
+  height: 100%;
+  background-color: #f5efd8;
+}
+
+.hikingcolumn{
+  -webkit-box-shadow:inset 0px 0px 0px 5px #008B8B;
+    -moz-box-shadow:inset 0px 0px 0px 5px #008B8B;
+    box-shadow:inset 0px 0px 0px 5px #008B8B;
+    font-size: 20px;
+}
+
+.column p {
+  text-align: center;
+
+}
+.glacierDescription{
+  text-align: center;
+}
+#icelandLogo{
+  width: 10%;
+  height: 10%;
+}
+#icelandPostcardPic{
+  width: 9%;
+  float: right;
+}
+#iceland3{
+  width: 70%;
+}
+#iceland1{
+  width: 50%;
+}
+#hiking1{
+  width: 100%;
+  height: 100%;
+}
